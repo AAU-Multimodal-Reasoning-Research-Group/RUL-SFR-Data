@@ -30,7 +30,7 @@ Remaining useful life (RUL) estimation of synthetic fibre ropes (SFRs) is critic
 | **Total** | **60–280 kN** | **~34,700** | **10–20** | — |
 
 ---
-![Synthetic Fibre Rope Lifecycle](Image/RUL.pdf)
+![Synthetic Fibre Rope Lifecycle](Image/RUL.png)
 
 ## RUL Labelling
 
@@ -41,7 +41,7 @@ $$\text{RUL} = N_{\text{failure}} - N_{\text{elapsed}}$$
 where $N_{\text{failure}}$ is the total sheave cycle count at mechanical failure for the rope specimen, and $N_{\text{elapsed}}$ is the cycle count at which the image was captured. This labelling scheme supports both continuous RUL regression and discrete life-stage classification (early life: RUL > 60%; mid life: 30–60%; late life: < 30%).
 
 ---
-![Experimental Setup](Image/setup.pdf)
+![Experimental Setup](Image/setup.png)
 
 ## Experimental Setup
 
