@@ -90,12 +90,24 @@ This dataset complements our previously published defect classification dataset:
 If you use this dataset or paper, please cite:
 
 ```bibtex
-@misc{rani2025rul,
-    title        = {Imagery Dataset for Remaining Useful Life Estimation of Synthetic Fibre Ropes},
-    author       = {Rani, Anju and Ortiz-Arroyo, Daniel and Durdevic, Petar},
-    year         = {2025},
-    archivePrefix= {arXiv},
-    primaryClass = {cs.CV}
+@misc{rani2026imagerydatasetremaininguseful,
+      title={Imagery Dataset for Remaining Useful Life Estimation of Synthetic Fibre Ropes}, 
+      author={Anju Rani and Daniel Ortiz-Arroyo and Petar Durdevic},
+      year={2026},
+      eprint={2605.04262},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.04262}, 
+}
+
+@misc{rani2026dartvisionlanguagefoundationmodel,
+      title={DART: A Vision-Language Foundation Model for Comprehensive Rope Condition Monitoring}, 
+      author={Anju Rani and Daniel Ortiz-Arroyo and Petar Durdevic},
+      year={2026},
+      eprint={2605.04943},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.04943}, 
 }
 ```
 
